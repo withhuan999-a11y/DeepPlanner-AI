@@ -1,6 +1,6 @@
 📌 项目简介
 
-DeepPlanner AI 是一个基于大语言模型 (LLM) 与github站内非常好用的Agent-Reach(https://github.com/Panniantong/Agent-Reach)以及Opencl工具  构建的防坑反营销智能体 (Agent)。
+DeepPlanner AI 是一个基于大语言模型 (LLM) 与github站内非常好用的Agent-Reach(https://github.com/Panniantong/Agent-Reach)以及Opencil工具  构建的防坑反营销智能体 (Agent)。
 
 系统坚持“正文是用来表演的，评论区才是用来避坑的”的极客理念。通过底层物理穿透社交平台（如小红书）的真实评论区，结合大模型的意图路由与天气感知，为你提炼出绝对客观、去水军的专属旅行攻略与产品评测数据。
 
